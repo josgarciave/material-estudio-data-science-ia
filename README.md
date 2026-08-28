@@ -384,6 +384,10 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
   Referencia rápida para consultar la sintaxis de cualquier sentencia. *Recomendado por Datogami.*
 
+- [AprendeSQL](https://www.aprendesql.dev/) `Sitio` - `Español`
+
+  Curso gratuito y práctico de SQL con certificado.
+
 <div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
 
 ---
