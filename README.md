@@ -20,6 +20,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Matemáticas y estadística](#matemáticas-y-estadística)
 - [Limpieza de datos](#limpieza-de-datos)
 - [Visualización de datos](#visualización-de-datos)
+- [R](#r)
 - [SQL](#sql)
 - [NoSQL](#nosql)
 - [Machine Learning](#machine-learning)
@@ -317,6 +318,14 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [datdata — Blog](https://www.datdata.com/blog) `Sitio` - `Español`
 
   Artículos en español sobre visualización y análisis de datos. *Recomendado por Datogami.*
+
+<div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
+
+---
+
+## R
+
+- [Harvard CS50’s Intro to R Programming](https://youtu.be/g_3IKHG-rfA) `Video` - `Inglés`
 
 <div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
 
