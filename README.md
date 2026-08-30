@@ -532,7 +532,7 @@ Para añadir un recurso, copia esta plantilla en la sección que corresponda:
 ```markdown
 - [Nombre del recurso](https://enlace) `Etiqueta` - `Idioma`
 
-  Una o dos líneas explicando qué es y por qué vale la pena. *Recomendado por Datogami.*
+  Una o dos líneas explicando qué es y por qué vale la pena. *Nombre de quién recomienda el material.*
 ```
 
 Las etiquetas pueden ser: `Libro` · `Curso` · `Video` · `Repo` · `Paper` · `Sitio`
