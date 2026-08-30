@@ -327,7 +327,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 - [Harvard CS50’s Intro to R Programming](https://youtu.be/g_3IKHG-rfA) `Video` - `Inglés`
 
-Curso completo y gratuito de Harvard CS50 para aprender R desde cero, enfocado en ciencia de datos, estadística y desarrollo de programas reales.
+  Curso completo y gratuito de Harvard CS50 para aprender R desde cero, enfocado en ciencia de datos, estadística y desarrollo de programas reales.
 
 <div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
 
