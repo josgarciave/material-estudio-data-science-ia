@@ -337,7 +337,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 - [Harvard CS50's Introduction to Databases with SQL](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=xdtmewU70rzz4b-9) `Curso` - `Inglés`
 
-  Curso completo y gratuito de Harvard CS50 para aprender SQL desde cero, enfocado en diseño de bases de datos, optimización de consultas y gestión de datos reales con SQLite, PostgreSQL y MySQL
+  Curso completo y gratuito de Harvard CS50 para aprender SQL desde cero, enfocado en diseño de bases de datos, optimización de consultas y gestión de datos reales con SQLite, PostgreSQL y MySQL.
 
 - [Píldoras Informáticas — Curso SQL](https://www.youtube.com/@pildorasinformaticas) `Video` - `Español`
 
